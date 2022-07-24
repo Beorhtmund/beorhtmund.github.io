@@ -3,7 +3,7 @@ The projects on my page are currently made with just HTML and CSS. As I learn mo
 I need to put each page into its own folder to make it look cleaner.
 
 ## Tribute Page
-This page is a tribute to... for his role in the advancement of space exploration. (is it in or of space exploration)
+This page is a tribute to... for his role in the advancement of space exploration.
 
 ## Survey Page
 I made this survey page about programming languages but I need to make it responsive.
