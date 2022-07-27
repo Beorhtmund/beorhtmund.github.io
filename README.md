@@ -1,5 +1,5 @@
 # Beorhtmund
-The projects on my page are currently made with just HTML and CSS. As I learn more my page will get regularly updated.
+The projects on my page are currently made with just HTML and CSS. As I learn more my page will get updated regularly.
 https://beorhtmund.github.io
 
 ## Tribute Page
