@@ -4,15 +4,20 @@ https://beorhtmund.github.io
 
 ## Tribute Page
 This page is a tribute to Wernher Von Braun for his role in the advancement of space exploration.
-I need to center the list element to the center of the page and then align the text to the left.
+
+FIX: I need to center the list element to the center of the page and then align the text to the left.
 
 ## Survey Page
-I made this survey page about programming languages but I need to make it responsive.
+I made this survey page about programming languages.
+
+FIX: The radio and checkbox inputs should be centered within their parent element.
 
 ## Product Page
-This page is not on my portfolio yet but can be found at https://beorhtmund.github.io/page/product.html
+This page is about a motorcycle dealer and is not on my portfolio yet but can be found at https://beorhtmund.github.io/page/product.html
 
 FIX: The spacing in the navbar is not even. Images need to be placed horizontally on bigger screens.
 
 ## Technical Documentation
-For the documentation page I made it about HTML but I couldn't figure out how to place HTML code inside the code elements, so I will need to work on that.
+For the documentation page I made it about HTML.
+
+FIX: I couldn't figure out how to place HTML code inside the code elements, so I will need to work on that.
