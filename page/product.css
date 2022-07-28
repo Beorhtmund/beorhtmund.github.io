@@ -1,0 +1,124 @@
+*, ::before, ::after {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  box-sizing: border-box;
+  font-family: Tahoma;
+}
+
+#header {
+  width: 100%;
+  background-color: rgb(250, 220, 14);
+  display: flex;
+  position: fixed;
+  }
+
+#header-img {
+  float: left;
+  padding: 0.5em;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
+
+#nav-bar {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#nav-bar ul li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 1em;
+}
+
+h2, p {
+  text-align: center;
+}
+
+#about-us h2 {
+  padding-top: 5em;
+}
+
+h2 {
+  padding-top: 2em;
+}
+
+p {
+  margin: 1em;
+  margin-bottom: 5em;
+}
+
+#video {
+  display: block;
+  margin: 0 auto;
+  width: 90%;
+  margin-bottom: 3em;
+}
+
+.bikes img {
+  width: auto;
+  height: auto;
+  max-width: 400px;
+  max-height: 400px;
+  display: flex;
+  margin: 1em auto;
+}
+
+#motorbikes p:last-of-type {
+  margin: 2em 0 1em 0;
+}
+
+#email, #submit {
+  font-size: 1em;
+  width: 40%;
+  display: block;
+  margin: 0.5em auto;
+}
+
+#submit {
+  margin-bottom: 4em;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+#contact-us p {
+  margin: 0.6em auto;
+  
+}
+
+.price {
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  margin: 0 auto;
+  padding-bottom: 5em;
+}
+
+#contact-us p:last-of-type {
+  margin-bottom: 2em;
+}
+
+@media only screen and (min-width: 600px) {
+  #video {
+    width: 560px;
+    height: 315px;
+  }
+
+  #email, #submit {
+  font-size: 1.5em;
+}
+#nav-bar {
+  font-size: 1.5em;
+}
+
+}
