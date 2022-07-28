@@ -9,5 +9,8 @@ I need to center the list element to the center of the page and then align the t
 ## Survey Page
 I made this survey page about programming languages but I need to make it responsive.
 
+## Product Page
+This page is not on my portfolio yet but can be found at https://beorhtmund.github.io/page/product.html
+
 ## Technical Documentation
 For the documentation page I made it about HTML but I couldn't figure out how to place HTML code inside the code elements, so I will need to work on that.
