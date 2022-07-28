@@ -12,5 +12,7 @@ I made this survey page about programming languages but I need to make it respon
 ## Product Page
 This page is not on my portfolio yet but can be found at https://beorhtmund.github.io/page/product.html
 
+FIX: The spacing in the navbar is not even. Images need to be placed horizontally on bigger screens.
+
 ## Technical Documentation
 For the documentation page I made it about HTML but I couldn't figure out how to place HTML code inside the code elements, so I will need to work on that.
