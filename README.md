@@ -15,7 +15,7 @@ FIX: The radio and checkbox inputs should be centered within their parent elemen
 ## Product Page
 This page is about a motorcycle dealer and is not on my portfolio yet but can be found at https://beorhtmund.github.io/page/product.html
 
-FIX: The spacing in the navbar is not even. Images need to be placed horizontally on bigger screens.
+FIX: The spacing in the navbar is not even. Images need to be placed horizontally on bigger screens, maybe use grid instead.
 
 ## Technical Documentation
 For the documentation page I made it about HTML.
