@@ -20,4 +20,4 @@ FIX: The spacing in the navbar is not even. Images need to be placed horizontall
 ## Technical Documentation
 For the documentation page I made it about HTML.
 
-FIX: I couldn't figure out how to place HTML code inside the code elements, so I will need to work on that. The content's left margin for mobile needs to be fixed.
+FIX: I couldn't figure out how to place HTML code inside the code elements, so I will need to work on that (use jQuery's .text() function). The content's left margin for mobile needs to be fixed.
