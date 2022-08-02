@@ -10,7 +10,7 @@ This page is a tribute to Wernher Von Braun for his role in the advancement of s
 FIX: I need to center the list element to the center of the page and then align the text to the left.
 
 ## Survey Page
-I made this survey page about programming languages.
+I made this survey page about programming languages with a few question regarding them.
 
 FIX: The radio and checkbox inputs should be centered within their parent element. Set a better background image. Make form responsive.
 
