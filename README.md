@@ -15,7 +15,7 @@ I made this survey page about programming languages with a few question regardin
 
 FIX: The radio and checkbox inputs should be centered within their parent element. Set a better background image. Make form responsive.
 
-## Product Page
+## *Product Page
 This page is about a motorcycle dealer and is not on my portfolio yet but can be found at https://beorhtmund.github.io/page/product.html
 
 FIX: The spacing in the navbar is not even. Images need to be placed horizontally on bigger screens, I should use grid instead.
@@ -24,3 +24,6 @@ FIX: The spacing in the navbar is not even. Images need to be placed horizontall
 For the documentation page I made it about HTML.
 
 FIX: I couldn't figure out how to place HTML code inside the code elements, so I will need to use jQuery's .text() function. The content's left margin for mobile needs to be fixed.
+
+
+* Not in portfolio
