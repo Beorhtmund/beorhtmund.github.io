@@ -27,4 +27,4 @@ FIX: I couldn't figure out how to place HTML code inside the code elements, so I
 \
 \
 \
-\* Not in portfolio
+\* = Not in portfolio
