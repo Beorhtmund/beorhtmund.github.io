@@ -2,8 +2,7 @@
 The projects on my page are currently made with just HTML and CSS. As I learn more my page will get updated regularly.
 https://beorhtmund.github.io
 
-I plan to update my projects to include Bootstrap, jQuery, Sass, React and Redux.
-New projects will be up in a few weeks.
+New projects made with Bootstrap, jQuery, Sass, React and Redux will be up in a few weeks.
 
 ## Tribute Page
 This page is a tribute to Wernher Von Braun for his role in the advancement of space exploration.
