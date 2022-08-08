@@ -25,6 +25,9 @@ FIX: The spacing in the navbar is not even. Images need to be placed horizontall
 For the documentation page I made it about HTML.
 
 FIX: I couldn't figure out how to place HTML code inside the code elements, so I will need to use jQuery's .text() function. The content's left margin for mobile needs to be fixed.
+
+## Random Quote Machine
+This is coming soon.
 \
 \
 \
