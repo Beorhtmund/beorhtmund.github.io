@@ -26,7 +26,7 @@ For the documentation page I made it about HTML.
 
 FIX: I couldn't figure out how to place HTML code inside the code elements, so I will need to use jQuery's .text() function. The content's left margin for mobile needs to be fixed.
 
-## Random Quote Machine
+## *Random Quote Machine
 Coming soon. This will be made using React, MUI and Sass.
 \
 \
