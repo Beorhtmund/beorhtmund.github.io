@@ -4,8 +4,8 @@ https://beorhtmund.github.io
 
 New projects made with Bootstrap, jQuery, Sass, React and Redux will be up in a few weeks.
 
-## Tribute Page
-This page is a tribute to Wernher Von Braun for his role in the advancement of space exploration.
+## *Tribute Page
+This page is a tribute to Wernher Von Braun for his role in the advancement of space exploration. It can be found at: https://beorhtmund.github.io/page/tribute.html
 
 FIX: I need to center the list element to the center of the page and then align the text to the left.
 
@@ -26,7 +26,7 @@ For the documentation page I made it about HTML.
 
 FIX: I couldn't figure out how to place HTML code inside the code elements, so I will need to use jQuery's .text() function. The content's left margin for mobile needs to be fixed.
 
-## *Random Quote Machine
+## Random Quote Machine
 This was made using React, MUI and Sass.
 
 FIX: Add button shortcut, so on enter the new quote button is pressed. Make this responsive. Set a better url address.
