@@ -15,7 +15,7 @@ I made this survey page about programming languages with a few question regardin
 FIX: The radio and checkbox inputs should be centered within their parent element. Set a better background image.
 
 ## *Product Page
-This page is about a motorcycle dealer and is not on my portfolio yet but can be found at https://beorhtmund.github.io/page/product.html
+This page is about a motorcycle dealer and is not on my portfolio yet but can be found at: https://beorhtmund.github.io/page/product.html
 \
 I can add a shopping basket for motorcycle parts and a login page in the future. This will require React and Redux.
 
