@@ -4,6 +4,8 @@ https://beorhtmund.github.io
 
 New projects made with Bootstrap, jQuery, Sass, React and Redux will be up in a few weeks.
 
+FIX: I need to change the navbar so it fades from dark to light.
+
 ## *Tribute Page
 This page is a tribute to Wernher Von Braun for his role in the advancement of space exploration. It can be found at: https://beorhtmund.github.io/page/tribute.html
 
