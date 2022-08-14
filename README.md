@@ -29,7 +29,7 @@ FIX: I couldn't figure out how to place HTML code inside the code elements, so I
 ## *Random Quote Machine
 This was made using React, MUI and Sass.
 
-FIX: Add button shortcut, so on enter the new quote button is pressed. Make this responsive. Set a better url.
+FIX: Add button shortcut, so on enter the new quote button is pressed. Make this responsive. Set a better url address.
 \
 \
 \
