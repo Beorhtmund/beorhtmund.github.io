@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "sources": [
+        "QuoteCard.scss",
+        "QuoteCard.css"
+    ],
+    "names": [],
+    "mappings": "AAAA;EACI,kBAAA;EACA,MAAA;EACA,QAAA;EACA,OAAA;EACA,SAAA;EACA,YAAA;EACA,cAAA;EACA,cAAA;EACA,0BAAA;EAAA,uBAAA;EAAA,kBAAA;EACA,2BAAA;EAAA,wBAAA;EAAA,mBAAA;ACCJ;ADCI;EACI,WAAA;ACCR;ADEI;EACI,aAAA;EACA,yBAAA;EACA,gBAAA;EACA,iBAAA;ACAR;ADGQ;EACI,YAAA;EACA,aAAA;ACDZ;ADIQ;EACI,WAAA;EACA,aAAA;ACFZ",
+    "file": "QuoteCard.css"
+}
