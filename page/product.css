@@ -1,4 +1,6 @@
-*, ::before, ::after {
+*,
+::before,
+::after {
   margin: 0;
   padding: 0;
 }
@@ -13,9 +15,10 @@ html {
   background-color: rgb(250, 220, 14);
   display: flex;
   position: fixed;
-  }
+}
 
 #header-img {
+  position: absolute;
   float: left;
   padding: 0.5em;
 }
@@ -28,18 +31,24 @@ html {
 
 #nav-bar {
   width: 100%;
+  height: 6vh;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
+#nav-bar ul {
+  display: flex;
+  column-gap: 1.6em;
+}
+
 #nav-bar ul li {
   list-style-type: none;
   display: inline;
-  margin-right: 1em;
 }
 
-h2, p {
+h2,
+p {
   text-align: center;
 }
 
@@ -63,20 +72,27 @@ p {
   margin-bottom: 3em;
 }
 
+#wrap-bikes {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
 .bikes img {
-  width: auto;
-  height: auto;
+  display: flex;
+  width: 400px;
+  height: 300px;
   max-width: 400px;
   max-height: 400px;
-  display: flex;
   margin: 1em auto;
+  overflow: hidden;
 }
 
 #motorbikes p:last-of-type {
   margin: 2em 0 1em 0;
 }
 
-#email, #submit {
+#email,
+#submit {
   font-size: 1em;
   width: 40%;
   display: block;
@@ -87,13 +103,17 @@ p {
   margin-bottom: 4em;
 }
 
+#submit:hover {
+  cursor: pointer;
+}
+
 .bold {
   font-weight: bold;
 }
 
 #contact-us p {
   margin: 0.6em auto;
-  
+
 }
 
 .price {
@@ -108,17 +128,25 @@ p {
   margin-bottom: 2em;
 }
 
+@media only screen and (min-width: 1300px) {
+  #wrap-bikes {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
 @media only screen and (min-width: 600px) {
   #video {
     width: 560px;
     height: 315px;
   }
 
-  #email, #submit {
-  font-size: 1.5em;
-}
-#nav-bar {
-  font-size: 1.5em;
-}
+  #email,
+  #submit {
+    font-size: 1.5em;
+  }
+
+  #nav-bar {
+    font-size: 1.5em;
+  }
 
 }
