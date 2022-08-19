@@ -24,11 +24,12 @@
   font-size: 2em;
   margin-right: 48px;
   font-family: Helvetica;
-  color: white;
+  color: rgb(240, 240, 240);
 }
 
 #navbar a:hover {
-  color: black;
+  color: white;
+  text-shadow: 1px 1px 0px rgba(255, 255, 255, 1);
 }
 
 
