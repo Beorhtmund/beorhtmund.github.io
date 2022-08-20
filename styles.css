@@ -74,7 +74,6 @@
 
 .project-tile img {
   width: 100%;
-  border: 1px solid black;
   border-bottom: none;
   border-top-left-radius: 25px;
   border-top-right-radius: 25px;
@@ -82,21 +81,23 @@
 
 .project-tile {
   text-decoration: none;
-  color: black;
+  color: white;
   margin: 3em;
+  background-color: black;
   margin-top: 15vh;
+  border-radius: 25px;
+  box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.5);
 }
 
-/* work on this
 .project-tile:hover {
   border-radius: 25px;
-  background-color: black;
+  background-color: lightgray;
 }
-*/
+
 
 .project-tile p:hover {
-  background-color: black;
-  color: white;
+  background-color: lightgray;
+  color: black;
 }
 
 .project-tile p {
@@ -110,9 +111,7 @@
   font-size: 1.6em;
   overflow-y: hidden;
   font-family: Helvetica;
-  border: 1px solid black;
-  border-top: 2px solid black;
-  background-color: lightgray;
+  background-color: black;
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
 }
