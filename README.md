@@ -1,9 +1,7 @@
 # Beorhtmund
-As I learn more, my page will get updated regularly. I will start adding JavaScript to my projects.
+As I learn more, my page will get updated regularly.
 \
 Click on this link to see my portfolio: https://beorhtmund.github.io
-
-FIX: I need to change the navbar so it fades from dark to light.
 
 ## *Tribute Page (HTML, CSS)
 This page is a tribute to Wernher Von Braun for his role in the advancement of space exploration. It can be found at: https://beorhtmund.github.io/page/tribute.html
