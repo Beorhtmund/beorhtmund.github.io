@@ -56,13 +56,22 @@ p {
   padding-top: 5em;
 }
 
+#motorbikes {
+  padding-top: 2em;
+}
+
+#about-us p, #motorbikes > p {
+  line-height: 1.6em;
+  letter-spacing: 0.1em;
+  margin-bottom: 2em;
+}
+
 h2 {
   padding-top: 2em;
 }
 
 p {
   margin: 1em;
-  margin-bottom: 5em;
 }
 
 #video {
@@ -81,12 +90,23 @@ p {
   display: grid;
   grid-template-columns: auto;
   width: min-content;
-  margin: 0 auto;
+  margin: 5em auto;
   box-shadow: 0px 0px 10px black;
-  margin-top: 5em;
-  margin-bottom: 5em;
   border-top-left-radius: 25px;
   border-top-right-radius: 25px;
+  background: linear-gradient(rgba(177, 189, 70, 0.5), rgb(0, 0, 0, 0.1));
+}
+
+.brand {
+  font-size: 1.2em;
+}
+
+.bike-info {
+  width: 75%;
+  line-height: 1.6em;
+  margin: 0 auto;
+  text-align: left;
+  margin-bottom: 2em;
 }
 
 .bikes img {
@@ -110,6 +130,8 @@ p {
   border-radius: 15px;
   background-color: rgb(250, 200, 14);
   box-shadow: 0px 0px 5px black;
+  font-weight: 600;
+  font-size: 1.1em;
 }
 
 .bikes button:hover {
@@ -142,13 +164,8 @@ p {
   font-weight: bold;
 }
 
-.brand {
-  font-size: 1.2em;
-}
-
 #contact-us p {
   margin: 0.6em auto;
-
 }
 
 .price {
@@ -160,7 +177,8 @@ p {
 }
 
 #contact-us p:last-of-type {
-  margin-bottom: 2em;
+  padding-bottom: 3em;
+  margin-bottom: 0;
 }
 
 @media only screen and (min-width: 1300px) {
