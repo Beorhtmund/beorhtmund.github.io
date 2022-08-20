@@ -97,6 +97,22 @@ p {
   overflow: hidden;
 }
 
+.bikes button {
+  margin: 2em auto;
+  margin-bottom: 3em;
+  width: 50%;
+  padding: 1em;
+  border-radius: 15px;
+  background-color: rgb(250, 200, 14);
+  box-shadow: 0px 0px 5px black;
+}
+
+.bikes button:hover {
+  background-color: rgb(250, 220, 14);
+  cursor: pointer;
+  box-shadow: 0px 0px 10px black;
+}
+
 #motorbikes p:last-of-type {
   margin: 2em 0 1em 0;
 }
@@ -121,6 +137,10 @@ p {
   font-weight: bold;
 }
 
+.brand {
+  font-size: 1.2em;
+}
+
 #contact-us p {
   margin: 0.6em auto;
 
@@ -131,7 +151,7 @@ p {
   display: inline-block;
   width: 100%;
   margin: 0 auto;
-  padding-bottom: 5em;
+  margin-bottom: 2em;
 }
 
 #contact-us p:last-of-type {
