@@ -1,6 +1,7 @@
 # Beorhtmund
 As I learn more, my page will get updated regularly. I will start adding JavaScript to my projects.
-https://beorhtmund.github.io
+\
+Click on this link to see my portfolio: https://beorhtmund.github.io
 
 FIX: I need to change the navbar so it fades from dark to light.
 
