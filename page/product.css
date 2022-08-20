@@ -77,13 +77,23 @@ p {
   grid-template-columns: 1fr;
 }
 
+.bikes {
+  display: grid;
+  grid-template-columns: auto;
+  width: min-content;
+  margin: 0 auto;
+  box-shadow: 0px 0px 10px black;
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
+
 .bikes img {
   display: flex;
   width: 400px;
   height: 300px;
   max-width: 400px;
   max-height: 400px;
-  margin: 1em auto;
+  margin: 1em;
   overflow: hidden;
 }
 
