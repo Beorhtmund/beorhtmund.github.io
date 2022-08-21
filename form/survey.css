@@ -1,6 +1,7 @@
 body {
   margin: 0;
-  background-image: url("https://images.pexels.com/photos/4974915/pexels-photo-4974915.jpeg?cs=srgb&dl=pexels-olia-danilevich-4974915.jpg&fm=jpg");
+  background-image: url("https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?cs=srgb&dl=pexels-antonio-batini%C4%87-4164418.jpg&fm=jpg");
+  background-size: 3000px 2500px;
   font-family: sans-serif;
   width: 100%;
   font-size: 17px;
@@ -9,6 +10,7 @@ body {
 #title, #description {
   color: white;
   text-align: center;
+  text-shadow: 5px 5px 5px black;
 }
 
 #title {
@@ -19,17 +21,28 @@ body {
   padding-bottom: 1em;
 }
 
-form {
+#survey-form {
   background-color: rgba(255,255,255,0.6);
   min-width: 300px;
   max-width: 500px;
   margin: 0 auto;
-  padding-bottom: 2em;
+  padding: 1.5em 1em;
+  margin-bottom: 5em;
+  box-shadow: 0 0 10px black;
+  border-radius: 10px;
+  border: 2px solid black;
 }
 
 .wrap {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 2em;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 label {
@@ -47,30 +60,30 @@ fieldset:not(:last-of-type) {
   border-bottom: 1px solid white;
 }
 
-input, textarea, select {
+input, select {
   min-height: 2em;
   width: 100%;
-  margin: 10px 0 0 0;
+  margin: 10px 0;
 }
 
-input, textarea {
-  border: 1px solid black;
+input, select, textarea {
+  border: 2px solid black;
+  border-radius: 10px;
 }
 
 textarea {
+  display: flex;
   margin: 1em auto;
+  width: 100%;
+  height: 5em;
 }
 
-input[type="checkbox"] {
-  width: unset;
-  vertical-align: middle;
-  margin: 0 0.5em 0 0;
-}
-
+input[type="checkbox"],
 input[type="radio"] {
   width: unset;
   vertical-align: middle;
   margin: 0 0.5em 0 0;
+  width: 1.2em;
 }
 
 input[type="submit"] {
@@ -79,6 +92,10 @@ input[type="submit"] {
   margin: 1em auto;
   height: 1em;
   font-size: 1.1em;
-  border-color: black;
   min-width: 300px;
+}
+
+input[type="submit"]:hover {
+  box-shadow: 0 0 10px black;
+  cursor: pointer;
 }
