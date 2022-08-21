@@ -9,8 +9,6 @@ This page is a tribute to Wernher Von Braun for his role in the advancement of s
 ## *Survey Page (HTML, CSS)
 I made this survey page about programming languages with a few question regarding them. This is no longer on my portfolio, but can still be seen at: https://beorhtmund.github.io/form/survey.html
 
-FIX: The radio and checkbox inputs should be centered within their parent element. Set a better background image.
-
 ## Motorcycle Dealer - Product Page (HTML, CSS)
 This page is about a motorcycle dealer.
 \
