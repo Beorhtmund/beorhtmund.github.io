@@ -42,6 +42,10 @@ nav li {
   display: block;
 }
 
+.main-section {
+  margin-bottom: 5em;
+}
+
 .main-section header {
   display: block;
   font-size: 2em;
