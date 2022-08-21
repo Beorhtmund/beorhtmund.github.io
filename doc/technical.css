@@ -8,10 +8,9 @@
   height: 100%;
   width: 20vw;
   float: left;
-  position: fixed;          
+  position: fixed;
   background-color: #f1f1f1;
   border-right: 2px solid black
-
 }
 
 nav header {
@@ -35,7 +34,7 @@ nav a {
 }
 
 nav a:hover {
-  color: rgb(100,200,104);
+  color: rgb(100, 200, 104);
 }
 
 nav li {
@@ -67,7 +66,7 @@ p {
 }
 
 code {
-  font-size: 1.2em;
+  font-size: 1em;
   margin-left: 30vw;
   display: block;
   padding: 0.5em 0;
@@ -112,26 +111,26 @@ code {
   }
 
   .main-section header {
-  margin-left: 0;
-}
+    margin-left: 0;
+  }
 
-p {
-  margin-left: 2em;
-}
+  p {
+    margin-left: 2em;
+  }
 
-code {
+  code {
     margin-left: 11vw;
 
-}
+  }
 }
 
 @media (max-width: 1131px) {
   nav li a {
-    color: rgba(0,0,0,0);
+    color: rgba(0, 0, 0, 0);
   }
 
   nav header {
-    color: rgba(0,0,0,1);
+    color: rgba(0, 0, 0, 1);
     border: none;
     width: 70%;
   }
@@ -141,20 +140,29 @@ code {
   }
 
   nav a:hover {
-  color: rgba(100,200,104,0);
-}
+    color: rgba(100, 200, 104, 0);
+  }
 
-nav a {
-  cursor: default;
-}
+  nav a {
+    cursor: default;
+  }
 
-nav ul li {
-  font-size: 0;
-}
+  nav ul li {
+    font-size: 0;
+  }
 
-code {
-    margin-left: 15vw;
+  .main-section header,
+  p {
+    margin-left: 0.2em;
+    padding-left: 1em;
+  }
 
-}
+  code {
+    margin-left: 8vw;
+  }
+
+  #editors li {
+    margin-left: 8vw;
+  }
 
 }
