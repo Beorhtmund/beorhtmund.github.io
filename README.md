@@ -14,10 +14,8 @@ This page is about a motorcycle dealer.
 \
 I can add a shopping basket for motorcycle parts and a login page in the future. This can be done using React.
 
-## Technical Documentation (HTML, CSS)
+## Technical Documentation (HTML, CSS, JavaScript)
 For the documentation page I made it about HTML.
-
-FIX: I couldn't figure out how to place HTML code inside the code elements, so I will need to use jQuery's .text() function. The content's left margin for mobile needs to be fixed. Each section needs more bottom margin.
 
 ## Random Quote Machine (React, MUI, Sass)
 This page displays a random quote when the new quote button is clicked.
