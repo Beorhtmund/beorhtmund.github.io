@@ -6,8 +6,6 @@ Click on this link to see my portfolio: https://beorhtmund.github.io
 ## *Tribute Page (HTML, CSS)
 This page is a tribute to Wernher Von Braun for his role in the advancement of space exploration. It can be found at: https://beorhtmund.github.io/page/tribute.html
 
-FIX: I need to center the list element to the center of the page and then align the text to the left.
-
 ## *Survey Page (HTML, CSS)
 I made this survey page about programming languages with a few question regarding them. This is no longer on my portfolio, but can still be seen at: https://beorhtmund.github.io/form/survey.html
 
