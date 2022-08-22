@@ -94,17 +94,6 @@
   box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.5);
 }
 
-.project-tile:hover {
-  border-radius: 25px;
-  background-color: black;
-}
-
-
-.project-tile p:hover {
-  background-color: black;
-  color: white;
-}
-
 .project-tile p {
   display: flex;
   align-items: center;
