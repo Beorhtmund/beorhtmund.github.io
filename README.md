@@ -1,7 +1,7 @@
-# Beorhtmund
+# Beorhtmund's Portfolio (HTML, CSS, JavaScript)
 As I learn more, my page will get updated regularly.
 \
-My portfolio uses HTML, CSS and JavaScript. Click on this link to see it: https://beorhtmund.github.io
+Click on this link to see my portfolio: https://beorhtmund.github.io
 
 ## *Tribute Page (HTML, CSS)
 This page is a tribute to Wernher Von Braun for his role in the advancement of space exploration. It can be found at: https://beorhtmund.github.io/page/tribute.html
