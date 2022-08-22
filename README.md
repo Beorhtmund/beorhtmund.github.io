@@ -18,7 +18,7 @@ I can add a shopping basket for motorcycle parts and a login page in the future.
 For the documentation page I made it about HTML.
 
 ## Random Quote Machine (React, MUI, Sass)
-This page displays a random quote when the new quote button is clicked.
+This page displays a random quote when the new quote button is clicked. You can also press enter for a new quote.
 
 FIX: Add button shortcut, so on enter the new quote button is pressed. Make this responsive. Set a better url address. Fetch method needs to be redone.
 
