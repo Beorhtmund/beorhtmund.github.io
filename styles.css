@@ -1,4 +1,6 @@
-*, ::before, ::after {
+*,
+::before,
+::after {
   margin: 0;
   padding: 0;
 }
@@ -43,7 +45,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background: linear-gradient(rgba(200, 16, 46, 1) 33%, rgba(200, 16, 46, 1) 33%, rgba(255, 255, 255, 1) 33%, rgba(255, 255, 255, 1) 66%, rgba(0,61,165, 1) 66%, rgba(0,61,165, 1) 99%);
+  background: linear-gradient(rgba(200, 16, 46, 1) 33%, rgba(200, 16, 46, 1) 33%, rgba(255, 255, 255, 1) 33%, rgba(255, 255, 255, 1) 66%, rgba(0, 61, 165, 1) 66%, rgba(0, 61, 165, 1) 99%);
 }
 
 #welcome-section h1 {
@@ -57,8 +59,10 @@
   font-size: 1.3em;
 }
 
-#projects{
-  display: flex;
+#projects {
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
   width: 100%;
 }
 
@@ -81,6 +85,7 @@
 
 .project-tile {
   text-decoration: none;
+  width: 25vw;
   color: black;
   margin: 3em;
   background-color: lightgray;
@@ -155,12 +160,20 @@ footer p {
 }
 
 @media only screen and (max-width: 1100px) {
+
   #projects {
-  flex-direction: column;
-}
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .project-tile {
+    width: auto;
+  }
+
   #contact {
-  font-size: 1.2em;
-}
+    font-size: 1.2em;
+  }
 
   .project-info {
     font-size: 1.4em;
@@ -171,6 +184,7 @@ footer p {
   #navbar {
     height: 8vh;
   }
+
   #navbar ul {
     justify-content: space-evenly;
   }
