@@ -3,11 +3,11 @@ As I learn more, my page will get updated regularly.
 \
 Click on this link to see my portfolio: https://beorhtmund.github.io
 
-## *Tribute Page (HTML, CSS)
-This page is a tribute to Wernher Von Braun for his role in the advancement of space exploration. It can be found at: https://beorhtmund.github.io/page/tribute.html
+## Tribute Page (HTML, CSS)
+This page is a tribute to Wernher Von Braun for his role in the advancement of space exploration.
 
-## *Survey Page (HTML, CSS)
-I made this survey page about programming languages with a few question regarding them. This is no longer on my portfolio, but can still be seen at: https://beorhtmund.github.io/form/survey.html
+## Survey Page (HTML, CSS)
+I made this survey page about programming languages with a few question regarding them.
 
 ## Motorcycle Dealer - Product Page (HTML, CSS)
 This page is about a motorcycle dealer.
