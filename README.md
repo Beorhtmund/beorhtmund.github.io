@@ -23,7 +23,7 @@ This page displays a random quote when the new quote button is clicked. You can 
 FIX: Make this responsive. Set a better url address. Fetch method needs to be redone.
 
 ## *Markdown Previewer
-Coming soon.
+This will be up in a few days.
 \
 \
 \
