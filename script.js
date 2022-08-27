@@ -2,6 +2,7 @@ const tile = document.getElementsByClassName('project-tile');
 
 const num = tile.length;
 
+// Hover over project tiles
 for (let i = 0; i < num; i++) {
     tile[i].addEventListener('mouseover', onHover);
     tile[i].addEventListener('mouseout', remove);
@@ -18,3 +19,12 @@ for (let i = 0; i < num; i++) {
         tile[i].children[1].style.color = 'black';
     }
 }
+
+// Change navbar colour when scrolling and return to normal at top of page
+$(window).scroll( () => {
+    if ($(window).scrollTop() >= 100) {
+        $('#navbar').css('background', 'black');
+    } else {
+        $('#navbar').css('background', 'transparent');
+    }
+});

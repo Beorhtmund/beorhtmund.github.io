@@ -9,11 +9,6 @@
   position: fixed;
   width: 100vw;
   height: 10vh;
-  background-color: rgba(0, 0, 0, 0.5);
-}
-
-#navbar:hover {
-  background-color: rgba(0, 0, 0, 1);
 }
 
 #navbar ul {
