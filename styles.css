@@ -201,4 +201,9 @@ footer p {
   .project-tile:first-of-type {
     margin-top: 15vh;
   }
+
+  #profile-link {
+    margin: 0 5px;
+    padding: 5px;
+  }
 }
