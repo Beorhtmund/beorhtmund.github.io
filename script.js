@@ -20,6 +20,7 @@ for (let i = 0; i < num; i++) {
     }
 }
 
+// Started using jQuery from here
 // Change navbar colour when scrolling and return to normal at top of page
 $(window).scroll( () => {
     if ($(window).scrollTop() >= 50) {
