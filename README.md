@@ -23,4 +23,4 @@ This page displays a random quote when the new quote button is clicked. You can 
 FIX: Make this responsive. Set a better url address. Fetch method needs to be redone.
 
 ## Markdown Previewer (React, Bootstrap, Sass)
-Although this is on my portfolio, I am still working on it. The minimise and maximise functions do not work correctly and need to be fixed.
+Although this is on my portfolio, I am still working on it. The minimise and maximise functions do not work correctly and need to be fixed. Work on styling as well.
