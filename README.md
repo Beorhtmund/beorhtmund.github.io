@@ -24,5 +24,3 @@ FIX: Make this responsive. Set a better url address. Fetch method needs to be re
 
 ## Markdown Previewer (React, Bootstrap, Sass)
 This is a simple markdown previewer. The windows can be minimised and maximised.
-
-FIX: I need to work on styling.
