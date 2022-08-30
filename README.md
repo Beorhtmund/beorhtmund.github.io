@@ -26,4 +26,4 @@ FIX: Make this responsive. Set a better url address. Fetch method needs to be re
 This is a simple markdown previewer. The windows can be minimised and maximised.
 
 ## Drum Machine
-I am now working on a new project, it will have 9 drum pads with unique sounds.
+I am now working on a new project. This machine will have 9 drum pads, each with a unique sound.
