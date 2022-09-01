@@ -25,6 +25,6 @@ FIX: Make this responsive. Set a better url address. Fetch method needs to be re
 ## Markdown Previewer (React, Bootstrap, Sass)
 This is a simple markdown previewer. The windows can be minimised and maximised.
 
-## Drum Machine
+## Drum Machine (React, Sass)
 I am now working on a new project. This machine will have 9 drum pads, each with 2 unique sounds.
 This is almost complete, it will be up very soon.
