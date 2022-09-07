@@ -20,7 +20,7 @@ For the documentation page I made it about HTML.
 ## Random Quote Machine (React, MUI, Sass)
 This page displays a random quote when the new quote button is clicked. You can also press enter for a new quote.
 
-FIX: Make this responsive. Set a better url address. Fetch method needs to be redone.
+FIX: Make this responsive. Set a better url address. Fetch method needs to be redone. Tweet button should set the quote and author as tweet placeholder.
 
 ## Markdown Previewer (React, Bootstrap, Sass)
 This is a simple markdown previewer. The windows can be minimised and maximised.
