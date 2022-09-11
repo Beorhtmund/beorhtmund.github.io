@@ -3,6 +3,8 @@ As I learn more, my page will get updated regularly.
 \
 Click on this link to see my portfolio: https://beorhtmund.github.io
 
+FIX: For mobile, I need to fix the nav-bar(too much space on the right), the text above 'contact me'(too close to edges) and decrease the font size of the contact links(bottom row sits on top of upper row).
+
 ## Tribute Page (HTML, CSS)
 This page is a tribute to Wernher Von Braun for his role in the advancement of space exploration.
 
