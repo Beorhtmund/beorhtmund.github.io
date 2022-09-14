@@ -30,4 +30,4 @@ This is a simple markdown previewer. The windows can be minimised and maximised.
 ## Drum Machine (React, Sass)
 I am now working on a new project. This machine will have 9 drum pads, each with 2 unique sounds. The keys on the keyboard can also be used to play the pad's sound.
 
-FIX: Volume doesn't change and sound still plays when off. (ONLY WHEN USING KEYBOARD)
+FIX: REDO code for the Event Listener.
