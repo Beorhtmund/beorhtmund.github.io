@@ -33,5 +33,6 @@ I am now working on a new project. This machine will have 9 drum pads, each with
 FIX: REDO code for the Event Listener.
 
 ## *JavaScript Calculator
+A simple calculator that adds, subtracts, divides and multiplies integers and decimals.
 
 * = Not in portfolio
