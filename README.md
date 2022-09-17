@@ -35,4 +35,6 @@ FIX: REDO code for the Event Listener.
 ## *JavaScript Calculator
 A simple calculator that adds, subtracts, divides and multiplies integers and decimals.
 
+FIX: Add keyboard functionality.
+
 * = Not in portfolio
